@@ -9,16 +9,16 @@
     "handcam": "Not Required",
     "records": [
         {
-            "user": "Sample_Victor_1",
-            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "user": "Kerwai",
+            "link": "https://youtu.be/seX5w9dLzpo?si=MUfGrylxT_XYXIqU",
             "percent": 100,
             "hz": 360
         },
         {
-            "user": "Sample_Victor_2",
-            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "user": "07Zeus",
+            "link": "https://youtu.be/FYpnsKmEuBk?si=dxWzgJJZAsLFQHD-",
             "percent": 100,
-            "hz": 120
+            "hz": 360
         }
     ]
 }
