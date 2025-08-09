@@ -8,7 +8,11 @@
     "percentToQualify": 56,
     "handcam": "Not Required",
     "records": [
-        {
+         {
+            "user": "no one yet just ignore this",
+            "link": "https://www.youtube.com/@ManiaGD",
+            "percent": 100,
+            "hz": 123
     
         }
     ]
