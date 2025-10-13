@@ -9,6 +9,11 @@
     "handcam": "Not Required",
     "records": [
          {
+            "user": "",
+            "link": "",
+            "percent": "",
+            "hz": ""
+        }
         }
     ]
 }
