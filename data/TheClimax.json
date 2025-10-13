@@ -8,11 +8,7 @@
     "percentToQualify": "100",
     "handcam": "Not Required",
     "records": [
-         {
-            "user": "Kerwai",
-            "link": "https://discord.com/channels/1244123948216619048/1261225939233275924/1387760686230147212",
-            "percent": 100,
-            "hz": 240
+         {  
         }
     ]
 }
