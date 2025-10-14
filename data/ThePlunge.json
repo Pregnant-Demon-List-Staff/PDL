@@ -5,7 +5,7 @@
     "creators": ["Dolabill", "Shodai", "Arachnid", "ADrone", "PBreaker"],
     "verifier": "Gokill",
     "verification": "https://https://www.youtube.com/watch?v=8gW1-_u1K0Y",
-    "percentToQualify": 100,
+    "percentToQualify": "100",
     "handcam": "Not Required",
     "records": [   
     ]
